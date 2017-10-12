@@ -1,0 +1,35 @@
+ul {
+	font-style: italic;
+
+	list-style: none;
+
+	
+}
+.third {
+	border-style: dotted;
+
+	width: 300px;
+}
+
+p.first {
+	border-style: dotted;
+
+
+}
+p.second {
+	border-style: dotted;
+
+
+}
+h3 {
+	border-style: dotted;
+
+
+
+}
+ul {
+	border-style: dotted;
+
+
+
+}
